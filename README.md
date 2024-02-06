@@ -101,14 +101,15 @@
 
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TESTING"},
 
-{"descriptions":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ,  comme Romains 10: 9 - 10 dit: 9. Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé. 10. Car c'est en croyant du coeur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut. notre Slogan est de = Conquérir le monde pour Jésus - Christ =","source":["https://tvstudio.strimie.eu:3757/stream/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5NjQ5MDhf/Providencetv.png","titles":"PROVIDENCE TV"}]}]}
-
-
-
+{"descriptions":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ,  comme Romains 10: 9 - 10 dit: 9. Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé. 10. Car c'est en croyant du coeur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut. notre Slogan est de = Conquérir le monde pour Jésus - Christ =","source":["https://tvstudio.strimie.eu:3757/stream/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5NjQ5MDhf/Providencetv.png","titles":"PROVIDENCE TV"},
 
 {"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://player.castr.com/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
 
-{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://stream.castr.com/632c52e09206c19bee72a6d6/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS 2"},
+{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://stream.castr.com/632c52e09206c19bee72a6d6/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS 2"}]}]}
+
+
+
+
 
 {"descriptions":"TV 2","source":[https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8""],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
 
