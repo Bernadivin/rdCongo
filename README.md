@@ -19,11 +19,9 @@
 
 {"descriptions":"Evi TV est l'une des chaines privées emettant a kinshasa avec un programme base sur la Politique, les Series theatrales Congolais ainsi que de la musique et autres...","source":["https://stream.telepack.net/evitv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png","titles":"EVI TV"},
 
-{"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
-
 {"descriptions":"POURIM RTV HD NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE SA FAMILLE BASE A KINSHASA RDC","source":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","titles":"POURIM TV"},
 
-{"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://51.254.199.122:8080/tele50/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
+{"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["https://tv.tnf-rdc.com/TELE50-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
 {"descriptions":"Maboke TV est une chaine privee de la RDC qui diffuse des theatres, films et series congolais pour votre divertissements","source":["http://51.254.199.122:8080/mabokeTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzU1ODMwNzdf/mabokess.png","titles":"MABOKE TV"},
 
@@ -49,7 +47,7 @@
 
 {"descriptions":"Canal Numérique Télévisionsest la chaine congolaise qui diffusant des musique théâtres et autres","source":["http://89.163.146.99/CN-TV_CANAL/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5MzA3MjFf/Canalnumeriqimue.jpg","titles":"CANAL NUMÉRIQUE"},
 
-{"descriptions":"Canal Moliere TV la chaîne de télévision Molière est une oeuvre du Lycée Molière, Elle a été créée à l'initiative de Monsieur Léon NEMBALEMBA ESUKU de la nationalité Congolaise qui en est le propriétaire. Lors de sa création, Molière TV était dans la ligne régie d'une station thématique dans le domaine de l'éducation d'où le slogan premier l'éducation par les médias c'est le centre même de l'existence de cette télévision parce qu'elle se voulait différente à d'autres chaînes de la capitale à l'instar de SSM, RTP, RTS, RTMV, RTAE qui étaient exclusivement religieuses. A cette époque, il n'existait qu'une seule chaîne de télévision éducative CEBS, qui avait selon son prénom un programme mixte comportant l'éducation scolaire, la culture et l'information générale. La chaine Molière télévision a la ligne éditoriale généraliste d'où le slogan la chaine non alignée La création de Molière a suivi les cheminements suivants 2004 obtentions de la licence d'exploitation au ministère de poste et telecommunication. Janvier 2005, approbation et adoption de Molière T.V. comme chaîne éducative aux couleurs scolaires.","source":["http://51.254.199.122:8080/MoliereTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MDlf/moliere.jpg","titles":"MOLIERE TV"},
+{"descriptions":"Canal Moliere TV la chaîne de télévision Molière est une oeuvre du Lycée Molière, Elle a été créée à l'initiative de Monsieur Léon NEMBALEMBA ESUKU de la nationalité Congolaise qui en est le propriétaire. Lors de sa création, Molière TV était dans la ligne régie d'une station thématique dans le domaine de l'éducation d'où le slogan premier l'éducation par les médias c'est le centre même de l'existence de cette télévision parce qu'elle se voulait différente à d'autres chaînes de la capitale à l'instar de SSM, RTP, RTS, RTMV, RTAE qui étaient exclusivement religieuses. A cette époque, il n'existait qu'une seule chaîne de télévision éducative CEBS, qui avait selon son prénom un programme mixte comportant l'éducation scolaire, la culture et l'information générale. La chaine Molière télévision a la ligne éditoriale généraliste d'où le slogan la chaine non alignée La création de Molière a suivi les cheminements suivants 2004 obtentions de la licence d'exploitation au ministère de poste et telecommunication. Janvier 2005, approbation et adoption de Molière T.V. comme chaîne éducative aux couleurs scolaires.","source":["https://tv.tnf-rdc.com/MOLIERETV-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzA5MDlf/moliere.jpg","titles":"MOLIERE TV"},
 
 {"descriptions":"Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.254.199.122:8080/MIKUBATV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg","titles":"MIKUBA TV"},
 
@@ -67,7 +65,7 @@
 
 {"descriptions":"MISHAPI VOICE Tv est une chaîne de radio et télévision emmettant depuis la ville de Goma, a l'est de la Republique Democratique du Congo. Contactez nous contact@mishapivoicetv.top.","source":["http://51.254.199.122:8080/MISHAPI/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjkwMDE5ODdf/mishapi.png","titles":"MISHAPI VOICE"},
 
-{"descriptions":"SSM TV est une chaine chretienne.","source":["http://85.234.131.234:8080/ISI-BROADCAST/SSM/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
+{"descriptions":"SSM TV est une chaine chretienne.","source":["https://tv.tnf-rdc.com/SSM-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc0OTlf/ssmtv.jpg","titles":"STUDIO SANGO MALAMU"},
 
 {"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["http://89.163.146.99/10eme-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
 
@@ -89,16 +87,6 @@
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
 
-{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://player.castr.com/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
-
-{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://stream.castr.com/632c52e09206c19bee72a6d6/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS 2"},
-
-{"descriptions":"TV 2","source":[https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8""],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
-
-{"descriptions":"TV 2","source":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 2"},
-
-{"descriptions":"TV 2","source":["https://stream.castr.com/630bd81fa9990f542884f80e/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 3"},
-
 {"descriptions":"AMEN TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens, Une chaine du ministerevAmen de l'apotre Leopold Mutombo","source":["http://89.163.146.99:80/AMEN_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
 
 {"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
@@ -118,7 +106,17 @@
 
 
 
+{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://player.castr.com/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
 
+{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://stream.castr.com/632c52e09206c19bee72a6d6/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS 2"},
+
+{"descriptions":"TV 2","source":[https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8""],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
+
+{"descriptions":"TV 2","source":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 2"},
+
+{"descriptions":"TV 2","source":["https://stream.castr.com/630bd81fa9990f542884f80e/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 3"},
+
+{"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
 
 
