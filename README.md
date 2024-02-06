@@ -29,7 +29,7 @@
 
 {"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["http://41.215.252.18:8080/live/b_one_enc/chunks.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
-{"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"VOICI L'HOMME"},
+{"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzU2NDEwMzBf/voicilhomme.jpg","titles":"VOICI L'HOMME"},
 
 {"descriptions":"Chaîne d'Informations Générales. Géopolis TV offre le temps du débat et de l’explication une chaine généraliste de la R.D.CONGO +243 995 819 665, geopolistv@gmail.com","source":["http://85.234.131.234:8080/ISI-BROADCAST/GeopoliceTV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODU5ODc2NDhf/geopolis.png","titles":"GEOPOLIS TV"},
 
@@ -81,8 +81,6 @@
 
 {"descriptions":"BAZIK Rumba c’est d’abord et avant tout, la première chaine urbaine mobile et musicale au Congo. Basée en France, la chaine a plusieurs déclinaisons dont BAZIK CLASSIK (RAP), BAZIK AFRICA, BAZIK CARAÏBES, BAZIK RAI, BAZIK CONGO. L’origine du nom BAZIK TV peut compris en langue bantoue comme « BA » préfixe du pluriel, « Zik » comme « musique » en argot, hommage à la culture urbaine. Chez BAZIK TV, nous oeuvrons pour la culture musicale. Le but de la chaîne est de mettre en valeur les styles urbains, sans frontières ni horizons. De la diversité musicale, mais surtout le meilleur de la musique. BAZIK TV est incontestablement la chaîne musicale la plus regardée des IPTV. Ne ratez plus aucune actualité musicale avec BAZIK TV. Retrouvez-nous sans limite sur la TNT Congolaise (Fréquence 554 MHz pour Brazzaville et Fréquence 482 MHz pour Kinshasa). Nous sommes également diffuser sur le bouquet BISENGO de Bleu Sat Congo (Canal 19), ainsi que sur le bouquet BRAVO de l’application BLEU OTT (Canal 33)","source":["https://baziktv.vedge.infomaniak.com/livecast/ik:baziktv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NjQ4NzBf/baziktv.png","titles":"BAZIK TV"},
 
-{"descriptions":"JKM Church est une chaîne chrétienne pour l'édification des chrétiens.","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg2NjFf/jkmChurch.png","titles":"JKM CHURCH"},
-
 {"descriptions":"MADI TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg","titles":"MADI TV"},
 
 {"descriptions":"King TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","source":["http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE1MjUwMzFf/kingrdc.jpg","titles":"KING TV"},
@@ -91,8 +89,6 @@
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
 
-{"descriptions":"AMEN TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens, Une chaine du ministerevAmen de l'apotre Leopold Mutombo","source":["http://89.163.146.99:80/AMEN_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
-
 {"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
 
 {"descriptions":"Découvrez les parcours des stars d'aujourd'hui et de demain. Responsable Administratif Direct : (+243) 900 402 547 siege.startv@gmail.com Gombe, Kinshasa contactez : siege.startv@gmail.com / direction.startv@gmail.com / secretariat.startv@gmail.com / ou visitez-nous notre site web : http://Www.star-tv.online/","source":["http://102.129.84.20:8000/play/a02c/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NDVf/start.png","titles":"START TV"},
@@ -100,8 +96,6 @@
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://85.234.131.234:8080/ISI-BROADCAST/RTNC-1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
 {"descriptions":"Congo World TV","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
-
-{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TESTING"},
 
 {"descriptions":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ,  comme Romains 10: 9 - 10 dit: 9. Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé. 10. Car c'est en croyant du coeur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut. notre Slogan est de = Conquérir le monde pour Jésus - Christ =","source":["https://tvstudio.strimie.eu:3757/stream/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5NjQ5MDhf/Providencetv.png","titles":"PROVIDENCE TV"},
 
@@ -130,7 +124,11 @@
 
 
 
+{"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TESTING"},
 
+{"descriptions":"AMEN TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens, Une chaine du ministerevAmen de l'apotre Leopold Mutombo","source":["http://89.163.146.99:80/AMEN_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
+
+{"descriptions":"JKM Church est une chaîne chrétienne pour l'édification des chrétiens.","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg2NjFf/jkmChurch.png","titles":"JKM CHURCH"},
 
 {"descriptions":"Bero TV est l'une des Televisions Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com","source":["http://stream.zeno.fm/eyuiqh60p1qtv"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE5NjEyMDhf/phototwo.jpg","titles":"BERO TV"},
 
@@ -212,7 +210,7 @@
 
 {"descriptions":"King TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","source":["http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE1MjUwMzFf/kingrdc.jpg","titles":"KING TV"},
 
-{"descriptions":"Congo Planet Gospel TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET GOSPEL"},
+{"descriptions":"Congo Planet Gospel TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["http://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET GOSPEL"},
 
 {"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["https://tv1.isi-broadcast.tech/10eme-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
 
