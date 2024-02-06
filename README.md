@@ -19,7 +19,7 @@
 
 {"descriptions":"Evi TV est l'une des chaines privées emettant a kinshasa avec un programme base sur la Politique, les Series theatrales Congolais ainsi que de la musique et autres...","source":["https://stream.telepack.net/evitv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ4MjA1MjBf/evitv.png","titles":"EVI TV"},
 
-{"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://live-onetv.eu:5866/hls/Clive1.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
+{"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
 {"descriptions":"POURIM RTV HD NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE SA FAMILLE BASE A KINSHASA RDC","source":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","titles":"POURIM TV"},
 
@@ -89,6 +89,16 @@
 
 {"descriptions":"TV 2","source":["http://102.129.84.20:8000/play/a02g/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODY1NDA5OTZf/EMCI.jpg","titles":"EMCI TV"},
 
+{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://player.castr.com/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS"},
+
+{"descriptions":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://stream.castr.com/632c52e09206c19bee72a6d6/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","titles":"MAGECO PRODUCTIONS 2"},
+
+{"descriptions":"TV 2","source":[https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8""],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
+
+{"descriptions":"TV 2","source":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 2"},
+
+{"descriptions":"TV 2","source":["https://stream.castr.com/630bd81fa9990f542884f80e/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 3"},
+
 {"descriptions":"AMEN TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens, Une chaine du ministerevAmen de l'apotre Leopold Mutombo","source":["http://89.163.146.99:80/AMEN_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2ODkyOTlf/Amen.jpeg","titles":"AMEN TV"},
 
 {"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02f/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
@@ -98,6 +108,8 @@
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://85.234.131.234:8080/ISI-BROADCAST/RTNC-1/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
 {"descriptions":"Congo World TV","source":["http://102.129.84.20:8000/play/a02i/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"CONGO WORLD"},
+
+{"descriptions":"Voici l'homme TV est une chaîne religieuse qui diffusé la musique chrétienne et les émissions chrétiennes et les films chrétiens,","source":["https://ythls.armelin.one/channel/UChinnBvzSaDcPjRhSBqMjzQ.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI5MDRf/congowebtv.jpeg","titles":"VOICI L'HOMME"},
 
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TESTING"},
 
