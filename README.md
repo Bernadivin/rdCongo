@@ -113,8 +113,6 @@
 
 {"descriptions":"TV 1","source":["http://102.129.84.20:8000/play/a02e/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTI3MTUwMThf/standby.jpg","titles":"TESTING"},
 
-{"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro-fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg1OTZf/royaltv.jpg","titles":"ROYAL TV"},
-
 {"descriptions":"PROVIDENCE TV une chaîne d'éducation, exhortation de la bonne parole pour sauver les âmes en Jésus Christ,  comme Romains 10: 9 - 10 dit: 9. Si tu confesses de ta bouche le Seigneur Jésus, et si tu crois dans ton cœur que Dieu l'a ressuscité des morts, tu seras sauvé. 10. Car c'est en croyant du coeur qu'on parvient à la justice, et c'est en confessant de la bouche qu'on parvient au salut. notre Slogan est de = Conquérir le monde pour Jésus - Christ =","source":["https://tvstudio.strimie.eu:3757/stream/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA5NjQ5MDhf/Providencetv.png","titles":"PROVIDENCE TV"}]}]}
 
 
@@ -211,13 +209,15 @@
 
 {"descriptions":"King TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions et autres....","source":["http://89.163.146.99/KING_TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTE1MjUwMzFf/kingrdc.jpg","titles":"KING TV"},
 
-{"descriptions":"Congo Planet Gospel TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET GOSPEL"},
+{"descriptions":"Congo Planet Gospel TV est une chaine privée de la RDCongo qui émette à kinshasa.","source":["https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzYzMjhf/congo_planet.jpg","titles":"CONGO PLANET GOSPEL"},
 
 {"descriptions":"10ème Rue Television est l'une des chaines privées de la RDC qui emette a Kinshasa en diffusant des informations Politiques, musique et autres. Pour tout contact: +243 82 344 50 54....","source":["https://tv1.isi-broadcast.tech/10eme-tv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzA4NTAyOTRf/dixiemerue.png","titles":"10EME RUE TV"},
 
 {"descriptions":"RLPRO TÉLÉVISION EST UNE PREMIÈRE CHAÎNE DES DÉCOUVERTES EN RÉPUBLIQUE DÉMOCRATIQUE DU CONGO, ELLE EST FRANCOPHONE. CRÉÉ EN 2010 PAR Mr. RAPHAEL LOKUNA POUR FAIRE DÉCOUVRIR LA RDC, NOS CULTURES, NOS RICHESSES, NOS VALEURS À TRAVERS LE MONDE ET AUX CONGOLAIS. NOS CONTACT +33758402240, mail RLPROTV.OFFICIEL@GMAIL.COM","source":["https://protv.vedge.infomaniak.com/livecast/ik:protv/manifest.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIzNThf/rlprotv.png","titles":"RL PRO TV"},
 
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"}]}]}
+
+
 
 
 
@@ -251,3 +251,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_t
 {"descriptions":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","source":["http://51.254.199.122:8080/rtnc1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","titles":"RTNC 1"},
 
 {"descriptions":"JKM Church est une chaîne chrétienne pour l'édification des chrétiens.","source":["http://51.254.199.122:8080/JKMchurch/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg2NjFf/jkmChurch.png","titles":"JKM CHURCH"},
+
+{"descriptions":"ROYAL TV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","source":["https://vdo.pro-fhi.net:3259/hybrid/play.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTU4NTg1OTZf/royaltv.jpg","titles":"ROYAL TV"},
+
