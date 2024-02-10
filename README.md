@@ -55,7 +55,7 @@
 
 {"descriptions":"Mikuba TV est l'une de chaînes télévisées de la République démocratique du Congo base à Kolwezi plein diversités des programmes en caractères politiques, musiques, sports, santé, économie, théâtres et autres....","source":["http://51.254.199.122:8080/MIKUBATV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAyNDQ1MDNf/mikubas.jpg","titles":"MIKUBA TV"},
 
-{"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["http://85.234.131.234:8080/ISI-BROADCAST/DIGITAL-TV/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
+{"descriptions":"Digital Congo Télévision est l'une des chaînes privées de la R.D.Congo et émettant à Kinshasa. Digital Congo radio télé est à ce jour le plus grand employeur de l'audio visuel privé avec un personnel de 120 agents dont 40 journalistes, 22 correspondants à travers les provinces du pays, une trentaine de techniciens, monteurs, mixeurs, réalisateurs et preneurs de sons. Il y a également 15 personnes qui s'occupent de la production car Digital CongoTv assure à 90 % ses productions afin de valoriser la culture congolaise et éviter la diffusion des programmes sans droits","source":["https://tv.tnf-rdc.com/SSM-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNzAxNzU1MjBf/digitalkongo","titles":"DIGITAL CONGO"},
 
 {"descriptions":"VOX Africa est une chaîne africaine de la panafricanisme avec des informations en temps réel","source":["https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg","titles":"VOX AFRICA TV"},
 
@@ -130,7 +130,7 @@
 
 
 
-
+http://85.234.131.234:8080/ISI-BROADCAST/DIGITAL-TV/tracks-v1a1/mono.m3u8
 
 {"descriptions":"VERITE TV est une chaine de télévision congolaise emettant a Londre qui a comme but de propager la PAROLE du SEIGNEUR JÉSUS à travers le monde pour le salut des âmes. Contact +447305267788, +447939219929","source":["http://51.15.3.133:8080/VERITETV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjQ1OTAxOTRf/verites.png","titles":"VERITE TV"},
 
