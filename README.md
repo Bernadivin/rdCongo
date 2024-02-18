@@ -22,7 +22,7 @@
 
 {"descriptions":"POURIM RTV HD NOUS SOMMES UNE CHAÎNE DE ŔADIO TÉLÉVISION DE L'ÉMANCIPATION SPIRITUELLE DE L'HOMME ET DE SA FAMILLE BASE A KINSHASA RDC","source":["https://cdn.mycloudstream.io/hls/live/broadcast/u67zmeky/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTYzNTY1Mzdf/Pourimtv.jpg","titles":"POURIM TV"},
 
-{"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["http://51.254.199.122:8080/tele50/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
+{"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["https://tv.tnf-rdc.com/TELE50-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
