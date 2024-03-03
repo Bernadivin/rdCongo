@@ -87,7 +87,13 @@
 
 {"descriptions":"Tokomi Wapi TV est l'une des chaines privées emettant a kinshasa avec un programme divers...","source":["http://89.163.146.99/TOKOMI-WAPI/tracks-v1a1/mono.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTA2ODM3ODVf/tokomiwapitv.jpg","titles":"TOKOMI WAPI"},
 
-{"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447763356181 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"}]}]}
+{"descriptions":"Zaïre Télévisionsest la chaine congolaise de la Diasporas qui diffusant des musique théâtres et autres, Whatsapp +447763356181 et Web www.zaire-studio.com","source":["https://5caf24a595d94.streamlock.net:1937/kcvugnzbpu/kcvugnzbpu/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yODQ2NzY3NDRf/zaire.jpeg","titles":"ZAÎRE TV"},
+
+{"descriptions":"TV 2","source":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV"},
+
+{"descriptions":"TV 2","source":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 2"},
+
+{"descriptions":"TV 2","source":["https://stream.castr.com/630bd81fa9990f542884f80e/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","titles":"FACE TV 3"}]}]}
 
 
 {"descriptions":"Radio Télé Cité de David, la première chaine chrétienne en République du Congo sur TNT. contactez-nous : citededavid242@gmail.com","source":["http://102.129.84.20:8000/play/a02a/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1OTJf/citededavid.jpg","titles":"CITE DE DAVID"},
