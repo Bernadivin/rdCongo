@@ -27,6 +27,8 @@
 
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
+{"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["https://652da46fe4c0b.mycloudstream.io/public/oghzwwzc"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titles":"SYNTY TV"},
+
 {"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["https://tv.tnf-rdc.com/TELE50-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
