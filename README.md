@@ -27,7 +27,7 @@
 
 {"descriptions":"ONE-TV est une chaine Chrétienne qui dispose d'enseignements biblique, des prédications et d'exhortations pour le développement de votre foi chrétienne. Pour tout Contact, +393511002758 ou +243998340060 ou +32499901865","source":["https://ssh101.bozztv.com/ssh101/onetvlive/playlist.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjg3NzI2NDlf/onetvok.jpg","titles":"ONE TV"},
 
-{"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["https://652da46fe4c0b.mycloudstream.io/public/oghzwwzc.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},
+{"descriptions":"SYNTY Télévision est une chaîne généraliste pour tous. CONTACTEZ-NOUS au : syntytv31100@gmail.com","source":["https://stream.hopetvafrica.live/hls/stream.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/NzNfNzc5NjI2NThf/synty.jpg","titles":"SYNTY TV"},
 
 {"descriptions":"B-ONE TV est une chaîne privée de la RDCONGO émettant à Kinshasa","source":["https://tv.tnf-rdc.com/B-ONE-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzUwMTJf/B_One.png","titles":"B-ONE"},
 
@@ -245,6 +245,8 @@ http://85.234.131.234:8080/ISI-BROADCAST/DIGITAL-TV/tracks-v1a1/mono.m3u8
 
 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/10eme_rue/hls_video_ts_token/10eme_rue.m3u8
+
+https://652da46fe4c0b.mycloudstream.io/public/oghzwwzc.m3u8
 
 {"descriptions":"Tous Congo est une chaine Congolaise de la diaspora","source":["http://51.254.199.122:8080/touscongo/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNjk4NDE1OTBf/touscongo.png","titles":"TOUS CONGO TV"},
 
