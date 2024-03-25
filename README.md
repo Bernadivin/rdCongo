@@ -33,6 +33,8 @@
 
 {"descriptions":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","source":["https://tv.tnf-rdc.com/TELE50-STREAM1/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","titles":"TELE 50"},
 
+{"descriptions":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","source":["http://185.177.125.251:8080/novelastv/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titles":"NOVELAS 2"},
+
 {"descriptions":"Ecole a Domicile Television EADTV est la premiere chaine educative au Congo RDC","source":["https://ythls.armelin.one/channel/UCdBQfm4truef3mDSYHDS0ig.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTY0MTI1NTJf/eadtv.jpeg","titles":"EADTV CONGO"},
 
 {"descriptions":"Nyota TV est une chaîne privée émettant rn République Démocratique du Congo","source":["http://51.254.199.122:8080/noyaTV/index.m3u8"],"subtitles":"By Channel","thumbs":"https://od.lk/s/M18yOTcyNTIwMjNf/nyota.jpg","titles":"NYOTA TV"},
